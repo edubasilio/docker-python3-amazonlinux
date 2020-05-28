@@ -9,7 +9,11 @@
 * python3-pip
 * pip3
 * bpython
-* pipenv
+* virtualenv
+* python-poetry
+* git
+* vim
+* zsh & oh-my-zsh
 
 ### Dockerfile
 If you choose to use these images it is highly recommended that you include `RUN yum -y update && yum clean all` in your _Dockerfile_
