@@ -10,7 +10,8 @@
 * pip3
 * bpython
 * virtualenv
-* python-poetry
+* poetry
+* pipenv
 * git
 * vim
 * zsh & oh-my-zsh
